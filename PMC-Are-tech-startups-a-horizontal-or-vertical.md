@@ -1,0 +1,1 @@
+# Are Tech Startups a Horizontal or Vertical?

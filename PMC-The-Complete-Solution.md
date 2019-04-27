@@ -1,0 +1,3 @@
+# The Complete Solution
+
+I should write about this more: what troubles solo operators like us is that when we move into strategy, the question of how the strategy is implemented remains an open question. Will the client do it, perhaps badly? Will a cheap freelancer do it, perhaps badly? If so, our advice is devalued because it won't yield the*results*it's capable of. So a complete solution is either some form of insurance on the implementation (like you supervise the implementation), or your more direct involvement in the solution, perhaps through coaching, or a team of specialists you sick on the problem.
